@@ -1,0 +1,47 @@
+#titulo{
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: rgb(26, 26, 134) ;
+    padding: 15px 30px;
+    border-radius: 100px;
+    margin-top: 50px;
+   
+  }
+  #meunome {
+    font-size: 2em;
+    color: rgb(26, 26, 134);
+  }
+  body{
+    background-color: floralwhite;
+    font-family: monospace, sans-serif ;
+    text-align: center;
+  }
+  .titlephoto {
+    margin: auto;
+    display: block;
+    border-radius: 100px;
+  }
+  .externo{
+    color: rgb(51, 36, 255);
+    text-dergb(29, 13, 255)
+    font-weight: bold;
+    text-decoration: none;
+    
+    
+  }
+  .links{
+    text-decoration: none;
+    font-weight: bold;
+    
+  }
+  h3{
+    color: rgb(26, 26, 134);
+  }
+  p{
+
+  }
+  img {
+    border-radius: 100px;
+  }
