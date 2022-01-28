@@ -3,45 +3,73 @@
     font-size: 3em;
     font-weight: bold;
     border-radius: 4px;
-    background-color: rgb(26, 26, 134) ;
+    background-color: rgb(206, 43, 43) ;
     padding: 15px 30px;
-    border-radius: 100px;
+    border-radius: 10px;
     margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
    
   }
   #meunome {
     font-size: 2em;
-    color: rgb(26, 26, 134);
+    color: rgb(206, 46, 46);
+    text-decoration: none;
   }
   body{
-    background-color: floralwhite;
+    color: ghostwhite;
+    background-color: rgb(3, 3, 3);
     font-family: monospace, sans-serif ;
     text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
   }
   .titlephoto {
     margin: auto;
     display: block;
     border-radius: 100px;
+
   }
   .externo{
-    color: rgb(51, 36, 255);
-    text-dergb(29, 13, 255)
+    color: rgb(255, 255, 255);
     font-weight: bold;
     text-decoration: none;
-    
+    color: rgb(67, 212, 67);
     
   }
   .links{
     text-decoration: none;
     font-weight: bold;
-    
+    color: ghostwhite;
+    background-color: rgb(206, 43, 43);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 35px;
+    line-height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   h3{
-    color: rgb(26, 26, 134);
+    color: rgb(206, 43, 43);
   }
   p{
+    text-align: center;
+    text-decoration-line: none;
+    margin-left: 100px;
+    margin-right: 100px;
 
   }
   img {
     border-radius: 100px;
+  }
+  #linkedin{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgb(0, 4, 255);
+  }
+  ul{
+    margin-left: 400px;
+    margin-right: 400px;
+
   }
